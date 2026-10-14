@@ -43,8 +43,13 @@ print(U)
 
 
 (ii) To find the LU Decomposition of a matrix
-'''Program to solve a matrix using LU decomposition.
+
+'''
+
+Program to solve a matrix using LU decomposition.
+
 Developed by: KAMALESH P
+
 RegisterNumber: 26014307
 
 '''
