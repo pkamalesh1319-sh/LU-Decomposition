@@ -46,19 +46,10 @@ print(U)
 '''Program to solve a matrix using LU decomposition.
 Developed by: KAMALESH P
 RegisterNumber: 26014307
-'''
-
-# To print X matrix (solution to the equations)
-
-'''Program to solve a matrix using LU decomposition.
-
-Developed by: KAMALESH P
-
-RegisterNumber: 26014307
 
 '''
 
-# To print X matrix (solution to the equations)
+#To print X matrix (solution to the equations)
 
 import os
 
